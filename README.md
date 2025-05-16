@@ -209,7 +209,7 @@ Vužívám zde script "lightbox", jelikož je daný v elementu "a href" (hyperte
 <p>FONTICONS, INC. Online. Dostupné z: <a href="https://fontawesome.com/"> https://fontawesome.com/.</a> [cit. 2025-05-15].</p>
 <p>NETIFY. Online. Dostupné z: <a href="https://www.netlify.com"> https://www.netlify.com.</a> [cit. 2025-05-15].</p>
 
-<h2>literatura</h2>
+<h2>Literatura</h2>
 <p>HTML & CSS Full Course for free 🌎. Online. 2023 31. 5. Dostupné z: <a href="https://www.youtube.com/watch?v=HGTJBPNC-Gw">https://www.youtube.com/watch?v=HGTJBPNC-Gw</a> . [cit. 2024-12-19].</p>
 <p>HTML & CSS Full Course - Beginner to Pro. Online. 2022 5 2. Dostupné z: <a href="https://www.youtube.com/watch?v=G3e-cpL7ofc".>https://www.youtube.com/watch?v=G3e-cpL7ofc</a> [cit. 2024-12-19].</p>
 <p>GITHUB. Lightbox2. Online. Dostupné z:<a href="https://github.com/lokesh/lightbox2"> https://github.com/lokesh/lightbox2.<a/> [cit. 2025-05-15].</p>
