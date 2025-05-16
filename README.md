@@ -195,7 +195,7 @@ Vužívám zde script "lightbox", jelikož je daný v elementu "a href" (hyperte
 <h2>Cíle</h2>
 <p>jedná se o budoucí cíle, které bych chtěl za život doplnit.</p>
 <ul>
-    <li>Najít mnou zracené Raspberry Pi 2 a zkusit ho využít na hosting webu.</li>
+    <li>Najít mnou ztracené Raspberry Pi 2 a zkusit ho využít na hosting webu.</li>
     <li>Dodělat pár nezrealizovaných nápadu, které jsem měl v hlavě.</li>
     <li>Zkusit něco nového.</li>
 </ul>
