@@ -1,0 +1,115 @@
+
+
+/* -------------------------------STÁLÁ ČÁST------------------------------- */
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+ 
+    
+
+   /* background-color: rgb(255, 255, 255); */
+}
+
+body {
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.249), rgba(0, 0, 0, 0));
+}
+
+
+
+  li, a {
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+
+}
+
+header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px 5%;
+    background: #fff;
+    box-shadow: 0px 1px 4px rgba(146, 161, 176, 0.15);
+    
+}
+
+.logo {
+    margin-right: auto;
+    cursor: pointer;
+    font-size: 10;
+}
+
+.button_ig {
+    margin-left: 20px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    text-decoration: none;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+}
+.button_ig :hover {
+    color: #e36936;
+}
+
+.nav_links {
+ list-style: none;
+ 
+}
+
+.nav_links li {
+    display: inline-block;
+    padding: 0px 15px;
+}
+
+.nav_links li a {
+    transition: all 0.3s ease 0s;
+    color: black;
+    border: 10px solid transparent;
+    letter-spacing: 1px;
+    border-radius: 50%;
+}
+
+.nav_links li a:hover {
+border-radius: 50%;
+background-color: #ec9b43;
+color: aliceblue;
+}
+
+/* ----------------------------------NESTÁLÁ ČÁST------------------------------------- */
+
+.gallery img {
+    width: 100%;
+    object-fit: cover;
+    aspect-ratio: 1;
+    display: block;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    min-height: 100vh;
+    padding: 50px 8%;
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 30px;
+}
+
+.gallery img {
+    width: 100%;
+    object-fit: cover;
+    aspect-ratio: 1;
+    display: block;
+}
+
